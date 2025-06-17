@@ -9,5 +9,6 @@ Building smart solutions
 Exploring Machine Learning and AI for Smart Automation 
 
 📫 How to Reach Me
+
 📧 ssandiru@gmail.com
 💼 https://www.linkedin.com/in/sandiru-samarakoon
