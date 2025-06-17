@@ -12,4 +12,4 @@ Exploring Machine Learning and AI for Smart Automation
 
 📧 ssandiru@gmail.com
 
-💼 https://www.linkedin.com/in/sandiru-samarakoon
+💼 https://www.linkedin.com/in/sandiru-samarakoon-74a8b92a3
